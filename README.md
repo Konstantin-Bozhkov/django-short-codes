@@ -22,6 +22,6 @@ On the admin site you can call your shortcode as follows
 ### YouTube videos
 >[youtube id="http://youtube.com/video/link" width="200" height="200"]
 ### Local video files
->[video id="http://link.to.your.mp4.or.similar.video" width="200" height="200"]
+>[video id="http://link.to.your.mp4.or.similar.video"]
 ### Local image files
 >[img id="http://link.to.your.local.image"]
